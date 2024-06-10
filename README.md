@@ -9,3 +9,4 @@ How to use the application
 1. click next or exit to enter the main screen or leave the app
 2. enter 7 different temperatures wich will be calculated and the average will be given
 3. finally view the detailed weather information on the last screen or exit.
+https://d.docs.live.net/c14c05661dc65a4e/Documentos/ST10438240.pptx
